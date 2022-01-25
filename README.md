@@ -13,3 +13,5 @@
 5、其中<describe> 描述 </describe>  是鼠标悬浮在字段名上显示描述的字段。可自行决定是否配置。
 
 6、<Default>默认值</Default>   默认值也可自行决定是否配置。
+
+7、其中"data_path"是绝对路径可以配置在其他文件路径，"tree_template_path"和"template_type_path"是相对exe目录的路径
